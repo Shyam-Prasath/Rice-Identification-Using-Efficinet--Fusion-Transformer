@@ -1,0 +1,9 @@
+
+FINAL RESULTS SUMMARY
+
+EfficientNet-B0 Test Accuracy: 99.91%
+EfficientNet + ViT Fusion Test Accuracy: 99.76%
+
+Observation:
+Fusion model provides stable performance comparable to the baseline,
+while integrating local and global feature representations.
